@@ -17,18 +17,18 @@
 
 ### Languages and Tools 🛠 : 
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-square&logo=php&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-square&logo=mysql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 - ### I’m currently learning 
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-square&logo=python&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
