@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Nidhal Labri from Algeria. I'm a Front-End Developer & Designer. I really enjoy learning Programming languages and frameworks. I also enjoy Implementing of designs because i'm a UI/UX Designer. I'm still learning increasingly. </h4>
+<h4> I am a 21-year-old IT enthusiast with a strong passion for networking, programming, cloud computing, and more. I am a dedicated team player who thrives on learning new skills and embracing challenges. Committed to continuous growth and self-improvement, I aim to contribute effectively to any project while developing my technical and personal abilities. </h4>
 
 
 	
