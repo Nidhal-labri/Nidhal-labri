@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B+I'm+Nidhal+Labri;IT+Enthusiast+%26+Cloud+Engineer;Networking+%7C+DevOps+%7C+Cloud;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B+I'm+Nidhal+Labri;IT+Enthusiast+%26+Cloud+%7C+DevOps+Engineer;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an IT enthusiast with a strong passion for **networking**, **programming**, **cloud computing**, and more. A dedicated team player who thrives on learning new skills and embracing challenges. Committed to continuous growth and self-improvement, I aim to contribute effectively to any project while developing my technical and personal abilities.
+I am an IT enthusiast with a strong passion for **cloud computing**, **DevOps**, **networking**, **programming**, and more. A dedicated team player who thrives on learning new skills and embracing challenges. Committed to continuous growth and self-improvement, I aim to contribute effectively to any project while developing my technical and personal abilities.
 
 ---
 
