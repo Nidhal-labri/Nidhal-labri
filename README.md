@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B+I'm+Nidhal+Labri;IT+Enthusiast+%26+Cloud+Engineer;Networking+%7C+DevOps+%7C+Cloud;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhal-labri&style=flat-square&color=4A90D9&label=Profile+Views" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Hey!+%F0%9F%91%8B+I'm+Nidhal+Labri;IT+Enthusiast+%26+Cloud+Engineer;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an IT enthusiast with a strong passion for **networking**, **programming**, **cloud computing**, and more. A dedicated team player who thrives on learning new skills and embracing challenges. Committed to continuous growth and self-improvement, I aim to contribute effectively to any project while developing my technical and personal abilities.
+I am an IT enthusiast with a strong passion for **cloud computing**, **DevOps**, **networking**, **programming**, and more. A dedicated team player who thrives on learning new skills and embracing challenges. Committed to continuous growth and self-improvement, I aim to contribute effectively to any project while developing my technical and personal abilities.
 
 ---
 
@@ -54,18 +50,6 @@ I am an IT enthusiast with a strong passion for **networking**, **programming**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhal-labri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nidhal-labri&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhal-labri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-</div>
 
 ---
 
