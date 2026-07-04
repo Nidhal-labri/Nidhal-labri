@@ -47,7 +47,7 @@ I am an IT enthusiast with a strong passion for **networking**, **programming**,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/huaweicloud/CF0A2C" height="40" alt="Huawei Cloud" title="Huawei Cloud" />
+  <img src="https://cdn.simpleicons.org/huawei/CF0A2C" height="40" alt="Huawei Cloud" title="Huawei Cloud" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
@@ -81,7 +81,9 @@ I am an IT enthusiast with a strong passion for **networking**, **programming**,
   <a href="mailto:nidhal.labri@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" title="Gmail" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" title="Discord" />
+  <a href="https://discord.com/users/nidhallabri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" title="nidhallabri" />
+  </a>
   <a href="https://api.whatsapp.com/send/?phone=+213656622816" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" title="WhatsApp" />
   </a>
